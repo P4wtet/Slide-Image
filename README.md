@@ -1,2 +1,6 @@
-# Slide-Image
-Этот сайт посвящен адаптивным карточками при помощи JavaScript получилось очень красиво!
+# slide-image
+
+Галерея из картинок с анимацией "слайдер".
+Использованы html, css, js.
+
+Проект доступен по ссылке - https://filimonovalexey.github.io/slide-image/
